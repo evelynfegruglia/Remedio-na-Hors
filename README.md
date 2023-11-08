@@ -1,4 +1,4 @@
-# Remedio-na-Hors
+# Remedio-na-Hora
 Visão Geral do Software:
 O aplicativo incluirá recursos como:
 
