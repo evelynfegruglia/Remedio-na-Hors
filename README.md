@@ -1,5 +1,5 @@
 # Remedio-na-Hora
-Visão Geral do Software:
+Visão Geral do Software
 O aplicativo incluirá recursos como:
 
 Cadastro de Usuário:
@@ -24,23 +24,21 @@ Mantém um registro de todos os medicamentos tomados pelos usuários.
 Calendário de Consultas Médicas:
 Integra um calendário para que os usuários possam programar e receber lembretes sobre suas consultas médicas.
 
-Papéis e Usuários:
+Papéis e Usuários
 Usuário Padrão:
 Pode adicionar, editar e excluir medicamentos.
 Configura lembretes para horários específicos.
 Visualiza o histórico de medicamentos tomados.
 Recebe alertas sobre a renovação da receita e consultas médicas.
-Requisitos Funcionais:
-(Além dos requisitos mencionados anteriormente)
 
+Requisitos Funcionais
 Notificação de Refil:
 Alerta os usuários quando estiver próximo o momento de renovar a receita ou reabastecer os medicamentos.
 
 Calendário de Consultas Médicas:
 Integração com um calendário para permitir que os usuários programem e recebam lembretes sobre suas consultas médicas.
 
-Testes de Caixa Preta:
-
+Testes de Caixa Preta
 Notificação de Refil:
 Verificar se os alertas estão sendo enviados corretamente quando necessário.
 
